@@ -1,6 +1,5 @@
 name: A problem while Sonic Pi is running 
 description: Sonic Pi starts up, but behaves unexpectedly during use
-title: "A problem while Sonic Pi is running"
 labels: ["triage"]
 body:
   - type: markdown
