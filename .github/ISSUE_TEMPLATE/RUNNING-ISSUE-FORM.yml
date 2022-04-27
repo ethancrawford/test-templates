@@ -5,7 +5,6 @@ labels: ["triage"]
 body:
   - type: markdown
     attributes:
-      label: Describe a problem that occurred while Sonic Pi was running
       value: |
         Hello! Thank you for wanting to raise an issue for us, so that we know what's not working for you.
 
@@ -15,6 +14,7 @@ body:
   - type: checkboxes
     id: read-troubleshooting-guide
     attributes:
+      label: Prerequisites
       options:
         - label: I've read the [Sonic Pi troubleshooting guide](https://github.com/sonic-pi-net/sonic-pi/wiki/Troubleshooting-Issues) and followed its suggestions where relevant
           required: true
