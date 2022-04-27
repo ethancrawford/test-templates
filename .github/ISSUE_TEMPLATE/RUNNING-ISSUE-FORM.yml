@@ -5,6 +5,7 @@ labels: ["triage"]
 body:
   - type: markdown
     attributes:
+      label: Describe a problem that occurred while Sonic Pi was running
       value: |
         Hello! Thank you for wanting to raise an issue for us, so that we know what's not working for you.
 
