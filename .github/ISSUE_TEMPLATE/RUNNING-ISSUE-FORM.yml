@@ -64,7 +64,6 @@ body:
       placeholder: "Example: 00f737e"
     validations:
       required: false
-
   - type: input
     id: os-version
     attributes:
