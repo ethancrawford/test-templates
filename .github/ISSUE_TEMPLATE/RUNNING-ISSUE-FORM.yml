@@ -60,7 +60,7 @@ body:
     id: dev-commit
     attributes:
       label: Self compiled commit id
-      description: "If you were using a self-compiled version, what was the Git commit id of the code?"
+      description: "If you were using a version of Sonic Pi that you compiled yourself, what was the Git commit id of the code?"
       placeholder: "Example: 00f737e"
     validations:
       required: false
