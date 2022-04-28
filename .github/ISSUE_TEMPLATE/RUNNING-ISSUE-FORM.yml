@@ -1,5 +1,5 @@
 name: A problem while Sonic Pi is running 
-description: Sonic Pi starts up, but behaves unexpectedly during use
+description: Sonic Pi starts up, but behaves unexpectedly during use.
 labels: ["triage"]
 body:
   - type: markdown
