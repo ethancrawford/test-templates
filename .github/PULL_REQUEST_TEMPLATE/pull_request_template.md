@@ -2,7 +2,7 @@ Hello! We're so glad you're interested in improving Sonic Pi.
 
 The core Sonic Pi development team is fairly small and made up of volunteers (with the exception of Sam Aaron, who relies much on crowd-funding) so the more help we can receive to manage your pull requests the better! Please follow the checklist below - that way, the process of reviewing and potentially merging your contribution can be streamlined :smile:
 
-- [ ] I've followed the project guidelines and ideal contribution process described in [CONTRIBUTING.md](https://github.com/sonic-pi-net/sonic-pi/blob/stable/CONTRIBUTING.md) where relevant.
+- [ ] I've followed the project guidelines and ideal contribution process described in [CONTRIBUTING.md](https://github.com/sonic-pi-net/sonic-pi/blob/dev/CONTRIBUTING.md) where relevant.
 
 ## Type of change
 Please delete options that are not relevant.
