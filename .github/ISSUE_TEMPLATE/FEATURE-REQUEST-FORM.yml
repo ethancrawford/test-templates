@@ -15,7 +15,7 @@ body:
       options:
         - label: I've searched the [Sonic Pi features project](https://github.com/orgs/sonic-pi-net/projects/1) for similar existing feature requests
           required: true
-        - label: To the best of my knowledge, this feature would fit within the [project guidelines](../CONTRIBUTING.md#project-and-development-process-guidelines) 
+        - label: To the best of my knowledge, this feature would fit within the [project guidelines](https://github.com/sonic-pi-net/sonic-pi/blob/dev/CONTRIBUTING.md#project-and-development-process-guidelines) 
           required: true
   - type: textarea
     id: description
