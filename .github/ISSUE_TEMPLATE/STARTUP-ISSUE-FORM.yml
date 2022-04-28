@@ -1,5 +1,5 @@
 name: A Sonic Pi start up issue
-description: Sonic Pi doesn't start up successfully
+description: Sonic Pi doesn't start up successfully.
 labels: ["triage", "boot"]
 body:
   - type: markdown
