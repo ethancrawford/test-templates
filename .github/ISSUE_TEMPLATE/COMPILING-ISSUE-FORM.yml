@@ -1,6 +1,6 @@
 name: A problem with compiling Sonic Pi
 description: I had a problem when compiling my own build of Sonic Pi from the source code.
-labels: ["triage,developer experience"]
+labels: ["triage", "developer experience"]
 body:
   - type: markdown
     attributes:
